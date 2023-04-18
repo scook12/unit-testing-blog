@@ -4,3 +4,4 @@
 .coveralls.yml
 .idea/
 __pycache__/
+.coverage
