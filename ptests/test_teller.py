@@ -1,8 +1,10 @@
-import pytest
-from uuid import uuid4
-from pkg.teller import Teller
-from mocks import LedgerMock, MockAcct
 from unittest.mock import patch
+from uuid import uuid4
+
+import pytest
+from mocks import LedgerMock, MockAcct
+
+from pkg.teller import Teller
 
 
 @pytest.fixture
