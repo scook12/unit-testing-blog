@@ -1,4 +1,6 @@
 # unit testing blog code
+[![Coverage Status](https://coveralls.io/repos/github/scook12/unit-testing-blog/badge.svg?branch=main)](https://coveralls.io/github/scook12/unit-testing-blog?branch=main)
+
 
 TODO:
 - [x] pytest examples
