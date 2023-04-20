@@ -53,7 +53,7 @@ class Teller:
 
         # in pure design world, the update op
         # should be handled by the ledger, but it's
-        # nonsense since we've already retrieved the account
+        # nonsense here since we've already retrieved the account
         acct.balance -= amount
 
     def purge(self, user_id: UUID):
