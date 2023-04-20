@@ -1,11 +1,13 @@
 # unit testing blog code
+[![Coverage Status](https://coveralls.io/repos/github/scook12/unit-testing-blog/badge.svg?branch=main)](https://coveralls.io/github/scook12/unit-testing-blog?branch=main)
+
 
 TODO:
 - [x] pytest examples
-- [ ] mocking examples
+- [x] mocking examples
 - [ ] doctest examples
-- [ ] tox config
-- [ ] travis config
+- [x] tox config
+- [x] travis config
 - [ ] hypo testing
 - [ ] integration test - maybe store account data in a db or add the Teller class
 
